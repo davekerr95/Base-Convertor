@@ -1,5 +1,13 @@
 #Base Convertor
 
+###Instructions
+After Downloading navigate to the file using terminal / command prompt and execute the following command
+
+```bash
+
+java -jar BaseConvertor.jar
+```
+
 ###Introduction
 Just a simple command line based Base Convertor built in Java.
 
